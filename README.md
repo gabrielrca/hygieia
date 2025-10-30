@@ -2,6 +2,4 @@ Código do Hygeia usado na confecção do artigo "Hygieia: data quality assessme
 
 O artigo pode ser lido em https://dl.acm.org/doi/10.1145/3297280.3297564
 
-Este código foi feito por Gabriel Rodrigues Caldas de Aquino para o seu mestrado.
-
 Qualquer dúvida -> gabrielcaldas@ic.ufrj.br
